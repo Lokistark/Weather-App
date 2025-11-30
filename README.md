@@ -37,13 +37,6 @@ Experience the app in action! Search for any city and get instant weather update
 
 ---
 
-> **💡 Tip:** You can add more screenshots by uploading them to the repository and adding them here using the format:
-> ```markdown
-> ![Description](https://raw.githubusercontent.com/Lokistark/Weather-App/master/your-image-name.png)
-> ```
-
----
-
 ## 🛠️ Tech Stack
 
 - **Frontend Framework:** React 19.2.0
